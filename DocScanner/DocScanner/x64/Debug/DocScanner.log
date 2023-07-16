@@ -1,0 +1,22 @@
+﻿  Scanner.cpp
+C:\Users\tolik\source\repos\DocScanner\DocScanner\Scanner.cpp(79,46): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tolik\source\repos\DocScanner\DocScanner\Scanner.cpp(79,43): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\tolik\source\repos\DocScanner\DocScanner\Scanner.cpp(98,64): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\tolik\source\repos\DocScanner\DocScanner\Scanner.cpp(98,48): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+  DocScanner.vcxproj -> C:\Users\tolik\source\repos\DocScanner\x64\Debug\DocScanner.exe
